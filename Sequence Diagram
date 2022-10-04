@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-04T08:08:21.972Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.53" etag="V_eTPIbUefmtXDNaNrj8" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-04T08:10:55.116Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.53" etag="nYQBUt0Jo4FRWJbXzrsI" version="20.4.0" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="419" dy="254" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="733" dy="444" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -260,19 +260,19 @@
             <mxPoint x="681.59" y="1050" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MoIBtl5Rd2NyDKF7TgAl-107" value="12. True : Data diubah" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;entryX=0.118;entryY=0.098;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="MoIBtl5Rd2NyDKF7TgAl-107" value="12. True : Data dihapus" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;entryX=0.118;entryY=0.098;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="528" y="1250" as="sourcePoint" />
             <mxPoint x="686.1800000000001" y="1250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MoIBtl5Rd2NyDKF7TgAl-108" value="8. Data Nama Gerai" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="1" target="MoIBtl5Rd2NyDKF7TgAl-122">
+        <mxCell id="MoIBtl5Rd2NyDKF7TgAl-108" value="8. Data Gerai" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="1" target="MoIBtl5Rd2NyDKF7TgAl-122">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="270" y="1170" as="sourcePoint" />
             <mxPoint x="421" y="1170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MoIBtl5Rd2NyDKF7TgAl-109" value="7. Ubah data gerai" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="1">
+        <mxCell id="MoIBtl5Rd2NyDKF7TgAl-109" value="7. Hapus data gerai" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="100" y="1160" as="sourcePoint" />
             <mxPoint x="267.5" y="1160" as="targetPoint" />
@@ -347,7 +347,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="MoIBtl5Rd2NyDKF7TgAl-126" value="11. False : message, Data gagal diubah" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;exitX=-0.017;exitY=0.777;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="MoIBtl5Rd2NyDKF7TgAl-122" target="MoIBtl5Rd2NyDKF7TgAl-120">
+        <mxCell id="MoIBtl5Rd2NyDKF7TgAl-126" value="11. False : message, Data gagal dihapus" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;exitX=-0.017;exitY=0.777;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="MoIBtl5Rd2NyDKF7TgAl-122" target="MoIBtl5Rd2NyDKF7TgAl-120">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="510" y="1240" as="sourcePoint" />
             <mxPoint x="282.5" y="1240" as="targetPoint" />
@@ -386,7 +386,7 @@
             <mxPoint x="527" y="1200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MoIBtl5Rd2NyDKF7TgAl-135" value="13. message, Data Berhasil Diubah" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;entryX=0.99;entryY=0.899;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MoIBtl5Rd2NyDKF7TgAl-128" target="MoIBtl5Rd2NyDKF7TgAl-120">
+        <mxCell id="MoIBtl5Rd2NyDKF7TgAl-135" value="13. message, Data Berhasil Dihapus" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;entryX=0.99;entryY=0.899;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MoIBtl5Rd2NyDKF7TgAl-128" target="MoIBtl5Rd2NyDKF7TgAl-120">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="510.80999999999995" y="1290" as="sourcePoint" />
             <mxPoint x="290" y="1290" as="targetPoint" />
