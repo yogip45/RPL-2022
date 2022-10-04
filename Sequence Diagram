@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-04T11:20:15.909Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.53" etag="pV73DzDjE-0zCjTbmU3Y" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-04T11:20:31.258Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.53" etag="8ibinEUcYE40playOO5M" version="20.4.0" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="666" dy="404" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -431,12 +431,6 @@
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="533.41" y="1510" as="sourcePoint" />
             <mxPoint x="691.59" y="1510" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MoIBtl5Rd2NyDKF7TgAl-143" value="6. Tampil data gerai" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="1" target="MoIBtl5Rd2NyDKF7TgAl-147">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="282.43999999999994" y="1570.0500000000002" as="sourcePoint" />
-            <mxPoint x="120.00000000000003" y="1570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MoIBtl5Rd2NyDKF7TgAl-144" value="2. data transaksi" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="1" target="MoIBtl5Rd2NyDKF7TgAl-154">
