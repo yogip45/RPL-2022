@@ -1,9 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2022-10-04T08:20:26.242Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.53" etag="1f5d1dGedXZ9TXOCxo4Q" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-04T08:35:54.092Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.53" etag="KgLuP0wO8OGAOoHTgqmT" version="20.4.0" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="1833" dy="1110" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="862" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="MoIBtl5Rd2NyDKF7TgAl-163" value="14. Tampil data transaksi" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;exitX=-0.126;exitY=0.967;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="MoIBtl5Rd2NyDKF7TgAl-147" source="MoIBtl5Rd2NyDKF7TgAl-152">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="1770" as="sourcePoint" />
+            <mxPoint x="120" y="1770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MoIBtl5Rd2NyDKF7TgAl-175" value="4. return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;exitX=0.133;exitY=0.962;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="MoIBtl5Rd2NyDKF7TgAl-169" target="MoIBtl5Rd2NyDKF7TgAl-151">
+          <mxGeometry x="0.5648" relative="1" as="geometry">
+            <mxPoint x="827.5" y="1750" as="sourcePoint" />
+            <mxPoint x="307.5" y="1750" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MoIBtl5Rd2NyDKF7TgAl-173" value="12. False : Data disimpan" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;entryX=0.118;entryY=0.098;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="538" y="1640" as="sourcePoint" />
+            <mxPoint x="696.1800000000001" y="1640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MoIBtl5Rd2NyDKF7TgAl-172" value="4. return data menu (id)" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="1" target="MoIBtl5Rd2NyDKF7TgAl-160">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="850" y="1550" as="sourcePoint" />
+            <mxPoint x="710" y="1550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MoIBtl5Rd2NyDKF7TgAl-171" value="4. Get data menu (id)" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;entryX=0.047;entryY=0.077;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="MoIBtl5Rd2NyDKF7TgAl-169">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="699.9999999999999" y="1520" as="sourcePoint" />
+            <mxPoint x="840" y="1520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="MoIBtl5Rd2NyDKF7TgAl-44" value="6. False : simpan data" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;entryX=0.118;entryY=0.098;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="430" y="260" as="sourcePoint" />
@@ -395,16 +426,10 @@
             <mxPoint x="220" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MoIBtl5Rd2NyDKF7TgAl-138" value="3. Get Nama Gerai" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;entryX=0.118;entryY=0.098;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="MoIBtl5Rd2NyDKF7TgAl-138" value="3. Get transaksi" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;entryX=0.118;entryY=0.098;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="533.41" y="1510" as="sourcePoint" />
             <mxPoint x="691.59" y="1510" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MoIBtl5Rd2NyDKF7TgAl-139" value="12. True : Data dihapus" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;entryX=0.118;entryY=0.098;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
-          <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="538" y="1710" as="sourcePoint" />
-            <mxPoint x="696.1800000000001" y="1710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MoIBtl5Rd2NyDKF7TgAl-140" value="8. Data Gerai" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="1" target="MoIBtl5Rd2NyDKF7TgAl-154">
@@ -417,12 +442,6 @@
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="110" y="1620" as="sourcePoint" />
             <mxPoint x="277.5" y="1620" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MoIBtl5Rd2NyDKF7TgAl-142" value="5. Data gerai" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="1" source="MoIBtl5Rd2NyDKF7TgAl-154">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="449.5000000000002" y="1559.72" as="sourcePoint" />
-            <mxPoint x="287.5" y="1559.72" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MoIBtl5Rd2NyDKF7TgAl-143" value="6. Tampil data gerai" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="1" target="MoIBtl5Rd2NyDKF7TgAl-147">
@@ -470,28 +489,22 @@
         <mxCell id="MoIBtl5Rd2NyDKF7TgAl-154" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;labelBackgroundColor=#FFFFFF;fillColor=#66B2FF;" vertex="1" parent="MoIBtl5Rd2NyDKF7TgAl-153">
           <mxGeometry x="15" y="90" width="10" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="MoIBtl5Rd2NyDKF7TgAl-155" value="4. return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="MoIBtl5Rd2NyDKF7TgAl-153" source="MoIBtl5Rd2NyDKF7TgAl-159">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="104.5" y="140" as="sourcePoint" />
-            <mxPoint x="24.5" y="140" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="MoIBtl5Rd2NyDKF7TgAl-156" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;labelBackgroundColor=#FFFFFF;fillColor=#67AB9F;" vertex="1" parent="MoIBtl5Rd2NyDKF7TgAl-153">
-          <mxGeometry x="25.5" y="290" width="10" height="40" as="geometry" />
+          <mxGeometry x="25.5" y="210" width="10" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MoIBtl5Rd2NyDKF7TgAl-157" value="validasi" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" parent="MoIBtl5Rd2NyDKF7TgAl-153" target="MoIBtl5Rd2NyDKF7TgAl-156">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="25" y="270" as="sourcePoint" />
+            <mxPoint x="25" y="190" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="60.5" y="270" />
-              <mxPoint x="60.5" y="290" />
+              <mxPoint x="60.5" y="190" />
+              <mxPoint x="60.5" y="210" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="MoIBtl5Rd2NyDKF7TgAl-158" value="11. False : message, Data gagal dihapus" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;exitX=-0.017;exitY=0.777;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="MoIBtl5Rd2NyDKF7TgAl-154" target="MoIBtl5Rd2NyDKF7TgAl-152">
+        <mxCell id="MoIBtl5Rd2NyDKF7TgAl-158" value="11. True : error message," style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="1" target="MoIBtl5Rd2NyDKF7TgAl-152">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="520" y="1700" as="sourcePoint" />
-            <mxPoint x="292.5" y="1700" as="targetPoint" />
+            <mxPoint x="525" y="1670" as="sourcePoint" />
+            <mxPoint x="315" y="1670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MoIBtl5Rd2NyDKF7TgAl-159" value="" style="shape=umlLifeline;participant=umlEntity;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;labelBackgroundColor=#FFFFFF;" vertex="1" parent="1">
@@ -506,31 +519,7 @@
         <mxCell id="MoIBtl5Rd2NyDKF7TgAl-162" value="Tabel : transaksi" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="647" y="1440" width="105" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MoIBtl5Rd2NyDKF7TgAl-163" value="14. Tampil data gerai" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="1" target="MoIBtl5Rd2NyDKF7TgAl-147">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="277.28999999999996" y="1770.16" as="sourcePoint" />
-            <mxPoint x="130" y="1770" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MoIBtl5Rd2NyDKF7TgAl-164" value="9. Get Nama Gerai" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;entryX=0.118;entryY=0.098;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
-          <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="537" y="1640" as="sourcePoint" />
-            <mxPoint x="695.1800000000001" y="1640" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MoIBtl5Rd2NyDKF7TgAl-165" value="10. return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="694" y="1660" as="sourcePoint" />
-            <mxPoint x="537" y="1660" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MoIBtl5Rd2NyDKF7TgAl-166" value="13. message, Data Berhasil Dihapus" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;entryX=0.99;entryY=0.899;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MoIBtl5Rd2NyDKF7TgAl-160" target="MoIBtl5Rd2NyDKF7TgAl-152">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="520.81" y="1750" as="sourcePoint" />
-            <mxPoint x="300" y="1750" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MoIBtl5Rd2NyDKF7TgAl-167" value="Sequence tambah data transaksi" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="MoIBtl5Rd2NyDKF7TgAl-167" value="Sequence tambah data transaksi &amp;amp; relasi" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="283" y="1360" width="247" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MoIBtl5Rd2NyDKF7TgAl-168" value="" style="shape=umlLifeline;participant=umlEntity;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;labelBackgroundColor=#FFFFFF;" vertex="1" parent="1">
@@ -541,6 +530,25 @@
         </mxCell>
         <mxCell id="MoIBtl5Rd2NyDKF7TgAl-170" value="Tabel : menu" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="797.5" y="1440" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MoIBtl5Rd2NyDKF7TgAl-155" value="4. return data transaksi &amp;amp; menu" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="1" target="MoIBtl5Rd2NyDKF7TgAl-154">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="692.5" y="1570" as="sourcePoint" />
+            <mxPoint x="552.5" y="1570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MoIBtl5Rd2NyDKF7TgAl-174" value="False : Data disimpan" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="1" target="MoIBtl5Rd2NyDKF7TgAl-169">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="705" y="1650" as="sourcePoint" />
+            <mxPoint x="840" y="1650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MoIBtl5Rd2NyDKF7TgAl-176" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="1" target="MoIBtl5Rd2NyDKF7TgAl-151">
+          <mxGeometry x="-0.6388" relative="1" as="geometry">
+            <mxPoint x="694.5" y="1720" as="sourcePoint" />
+            <mxPoint x="457" y="1720" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
