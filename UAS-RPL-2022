@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-06T03:18:02.315Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.34" etag="5JaNJZnU_Mr65C_ew82V" version="20.4.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-10-06T03:25:04.309Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.34" etag="OHpAFL84aOI2kpNINRMV" version="20.4.0" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Use Case">
     <mxGraphModel dx="1961" dy="1149" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -197,7 +197,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="u8FdnzZatIzApo7FrTOd" name="Sequence Diagram">
-    <mxGraphModel dx="419" dy="-846" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1222" dy="-360" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -234,7 +234,7 @@
             <mxPoint x="330" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jcxIRQc8HmCszy5emNHl-8" value="1. Tambah data transaksi" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="-2iRJrUsTOF6eo-6u-JL-2" target="jcxIRQc8HmCszy5emNHl-15">
+        <mxCell id="jcxIRQc8HmCszy5emNHl-8" value="1. data transaksi" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="-2iRJrUsTOF6eo-6u-JL-2" target="jcxIRQc8HmCszy5emNHl-15">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="30" y="130" as="sourcePoint" />
             <mxPoint x="170" y="130" as="targetPoint" />
