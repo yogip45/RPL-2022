@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-19T07:27:06.954Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.47" etag="NOKuFVng2vL7njtVR5Wd" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-19T07:32:34.655Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.47" etag="5OsEEbHlypP3q2wff0sM" version="20.4.1" type="github">
   <diagram id="7ptD3yb_LrJAQHPpZchy" name="Page-1">
-    <mxGraphModel dx="2488" dy="2788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="778" dy="1628" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -43,12 +43,24 @@
         <mxCell id="_ZBJc0yRJITp6EdYr8C2-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=18;endArrow=none;endFill=0;" edge="1" parent="1" source="_ZBJc0yRJITp6EdYr8C2-3" target="_ZBJc0yRJITp6EdYr8C2-18">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="410" y="405" />
+              <mxPoint x="460" y="405" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="_ZBJc0yRJITp6EdYr8C2-29" value="3.0" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" vertex="1" connectable="0" parent="_ZBJc0yRJITp6EdYr8C2-19">
           <mxGeometry x="-0.4535" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_ZBJc0yRJITp6EdYr8C2-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;endArrow=none;endFill=0;" edge="1" parent="1" source="_ZBJc0yRJITp6EdYr8C2-3" target="_ZBJc0yRJITp6EdYr8C2-43">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_ZBJc0yRJITp6EdYr8C2-52" value="4.0" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" vertex="1" connectable="0" parent="_ZBJc0yRJITp6EdYr8C2-46">
+          <mxGeometry x="-0.2862" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -139,6 +151,34 @@
         </mxCell>
         <mxCell id="_ZBJc0yRJITp6EdYr8C2-42" value="Lihat Raport" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="640" y="440" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZBJc0yRJITp6EdYr8C2-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;endArrow=none;endFill=0;" edge="1" parent="1" source="_ZBJc0yRJITp6EdYr8C2-43" target="_ZBJc0yRJITp6EdYr8C2-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZBJc0yRJITp6EdYr8C2-53" value="4.1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" vertex="1" connectable="0" parent="_ZBJc0yRJITp6EdYr8C2-49">
+          <mxGeometry x="-0.1261" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_ZBJc0yRJITp6EdYr8C2-43" value="Raport" style="html=1;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;sketch=0;shape=mxgraph.sitemap.text;" vertex="1" parent="1">
+          <mxGeometry x="640" y="560" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZBJc0yRJITp6EdYr8C2-44" value="Kelola Raport" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="640" y="630" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZBJc0yRJITp6EdYr8C2-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=18;endArrow=none;endFill=0;" edge="1" parent="1" source="_ZBJc0yRJITp6EdYr8C2-48" target="_ZBJc0yRJITp6EdYr8C2-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZBJc0yRJITp6EdYr8C2-54" value="4.2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" vertex="1" connectable="0" parent="_ZBJc0yRJITp6EdYr8C2-51">
+          <mxGeometry x="-0.3506" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_ZBJc0yRJITp6EdYr8C2-48" value="Page" style="html=1;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;sketch=0;shape=mxgraph.sitemap.page;" vertex="1" parent="1">
+          <mxGeometry x="900" y="560" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZBJc0yRJITp6EdYr8C2-50" value="Kelola Raport" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="900" y="585" width="120" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
