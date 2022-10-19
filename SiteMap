@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-19T07:38:12.474Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.47" etag="iu10IDIZ_K5TpBu9V0_B" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-19T07:46:14.289Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.47" etag="y7mQ8HXBWaqsz95aMBlj" version="20.4.1" type="github">
   <diagram id="7ptD3yb_LrJAQHPpZchy" name="Page-1">
-    <mxGraphModel dx="1382" dy="2038" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1244" dy="1944" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -70,18 +70,13 @@
         <mxCell id="_ZBJc0yRJITp6EdYr8C2-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;endArrow=none;endFill=0;" edge="1" parent="1" source="_ZBJc0yRJITp6EdYr8C2-9" target="_ZBJc0yRJITp6EdYr8C2-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_ZBJc0yRJITp6EdYr8C2-13" value="Profile Siswa" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" vertex="1" connectable="0" parent="_ZBJc0yRJITp6EdYr8C2-12">
-          <mxGeometry x="-0.203" y="1" relative="1" as="geometry">
-            <mxPoint x="44" y="1" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="_ZBJc0yRJITp6EdYr8C2-40" value="1.2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" vertex="1" connectable="0" parent="_ZBJc0yRJITp6EdYr8C2-12">
           <mxGeometry x="-0.71" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_ZBJc0yRJITp6EdYr8C2-11" value="- Nama Siswa&lt;br&gt;- Alamat Siswa&lt;br&gt;- TTL&lt;br&gt;- Asal Sekolah&lt;br&gt;- Kelas &amp;amp; Semester&lt;br&gt;- NISN" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="-105" width="210" height="120" as="geometry" />
+          <mxGeometry x="1200" y="-105" width="210" height="120" as="geometry" />
         </mxCell>
         <mxCell id="_ZBJc0yRJITp6EdYr8C2-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;endArrow=none;endFill=0;" edge="1" parent="1" source="_ZBJc0yRJITp6EdYr8C2-14" target="_ZBJc0yRJITp6EdYr8C2-16">
           <mxGeometry relative="1" as="geometry" />
@@ -130,18 +125,13 @@
           <mxGeometry y="70" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_ZBJc0yRJITp6EdYr8C2-37" value="- Nama Guru&lt;br&gt;- Alamat&lt;br&gt;- Mapel yang Diampu" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="-280" width="210" height="120" as="geometry" />
+          <mxGeometry x="1210" y="-280" width="210" height="120" as="geometry" />
         </mxCell>
         <mxCell id="_ZBJc0yRJITp6EdYr8C2-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;endArrow=none;endFill=0;" edge="1" parent="1" source="_ZBJc0yRJITp6EdYr8C2-9" target="_ZBJc0yRJITp6EdYr8C2-37">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="700" y="-220" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_ZBJc0yRJITp6EdYr8C2-39" value="Profile Guru" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" vertex="1" connectable="0" parent="_ZBJc0yRJITp6EdYr8C2-38">
-          <mxGeometry x="0.1488" y="-1" relative="1" as="geometry">
-            <mxPoint x="42" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_ZBJc0yRJITp6EdYr8C2-41" value="1.1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" vertex="1" connectable="0" parent="_ZBJc0yRJITp6EdYr8C2-38">
@@ -169,16 +159,32 @@
         <mxCell id="_ZBJc0yRJITp6EdYr8C2-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=18;endArrow=none;endFill=0;" edge="1" parent="1" source="_ZBJc0yRJITp6EdYr8C2-48" target="_ZBJc0yRJITp6EdYr8C2-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_ZBJc0yRJITp6EdYr8C2-54" value="4.2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" vertex="1" connectable="0" parent="_ZBJc0yRJITp6EdYr8C2-51">
-          <mxGeometry x="-0.3506" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_ZBJc0yRJITp6EdYr8C2-48" value="Page" style="html=1;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;sketch=0;shape=mxgraph.sitemap.page;" vertex="1" parent="1">
+        <mxCell id="_ZBJc0yRJITp6EdYr8C2-57" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="900" y="560" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="_ZBJc0yRJITp6EdYr8C2-50" value="Kelola Raport" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="900" y="585" width="120" height="45" as="geometry" />
+        <mxCell id="_ZBJc0yRJITp6EdYr8C2-48" value="Page" style="html=1;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;sketch=0;shape=mxgraph.sitemap.page;" vertex="1" parent="_ZBJc0yRJITp6EdYr8C2-57">
+          <mxGeometry width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZBJc0yRJITp6EdYr8C2-50" value="Kelola Raport" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;strokeColor=default;" vertex="1" parent="_ZBJc0yRJITp6EdYr8C2-57">
+          <mxGeometry y="25" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZBJc0yRJITp6EdYr8C2-58" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="890" y="-260" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZBJc0yRJITp6EdYr8C2-59" value="Page" style="html=1;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;sketch=0;shape=mxgraph.sitemap.page;" vertex="1" parent="_ZBJc0yRJITp6EdYr8C2-58">
+          <mxGeometry width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZBJc0yRJITp6EdYr8C2-60" value="Profile Guru" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;strokeColor=default;" vertex="1" parent="_ZBJc0yRJITp6EdYr8C2-58">
+          <mxGeometry y="25" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZBJc0yRJITp6EdYr8C2-61" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="890" y="-90" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZBJc0yRJITp6EdYr8C2-62" value="Page" style="html=1;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;sketch=0;shape=mxgraph.sitemap.page;" vertex="1" parent="_ZBJc0yRJITp6EdYr8C2-61">
+          <mxGeometry width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZBJc0yRJITp6EdYr8C2-63" value="Profile Siswa" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;strokeColor=default;" vertex="1" parent="_ZBJc0yRJITp6EdYr8C2-61">
+          <mxGeometry y="25" width="120" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
